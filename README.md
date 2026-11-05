@@ -91,13 +91,17 @@ Netflix-Data-Visualization/
 
 ## Key Insights
 
-Dashboard digunakan untuk mengidentifikasi beberapa temuan utama:
+Berdasarkan hasil analisis dataset Netflix, diperoleh beberapa temuan utama:
 
-1. Perbandingan jumlah film dan serial TV yang tersedia dalam dataset Netflix.
-2. Tren distribusi konten berdasarkan tahun rilis.
-3. Negara-negara dengan jumlah produksi konten terbanyak.
-4. Distribusi konten berdasarkan kategori rating.
-5. Genre dengan jumlah konten terbanyak.
+1. **Dominasi Movies:** Movies mendominasi katalog Netflix dengan jumlah 6.131 konten (69,6%), sedangkan TV Shows berjumlah 2.676 konten (30,4%).
+
+2. **Tren Tahun Rilis:** Tahun 2018 menjadi tahun dengan jumlah konten terbanyak, yaitu 1.147 judul.
+
+3. **Negara Produksi Terbanyak:** Amerika Serikat (US) menempati posisi pertama dengan jumlah 3.690 konten.
+
+4. **Distribusi Rating:** Kategori TV-MA menjadi rating dengan jumlah konten terbanyak, yaitu 3.207 judul.
+
+5. **Genre Terpopuler:** International Movies menjadi kategori genre dengan jumlah konten terbanyak, yaitu 2.752 judul.
 
 Hasil analisis dapat dieksplorasi lebih lanjut melalui filter interaktif pada dashboard.
 
