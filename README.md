@@ -115,7 +115,7 @@ Untuk menjalankan project secara lokal, ikuti langkah berikut:
 2. Clone repository GitHub:
 
 ```bash
-git clone [LINK-REPOSITORY]
+git clone https://github.com/anjelouss14/Netflix-Data-Visualization.git
 ```
 
 3. Masuk ke folder project:
