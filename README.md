@@ -105,7 +105,7 @@ Hasil analisis dapat dieksplorasi lebih lanjut melalui filter interaktif pada da
 
 Dashboard dapat diakses melalui link berikut:
 
-**[Link Dashboard akan ditambahkan setelah deployment]**
+**[Buka Netflix Content Analysis Dashboard](https://netflix-data-visualization-mfeuzg7wjxuwoe32qdns3t.streamlit.app/)**
 
 ## Cara Menjalankan Project
 
